@@ -1,35 +1,53 @@
 .greetingForm {
+
 }
 
 .inputAndButtonContainer {
+    display: flex;
+    gap: 20px;
 }
 
 .error {
+    color: red;
 }
 
 .input {
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #ccc;
 }
 
 .input:focus {
+    color: #333;
+    border-color: #007bff;
 }
 
 .errorInput {
+    border: 1px solid red;
 }
 
 .button {
+    background-color: #DDEEFF;
+    width: 40px;
+    height: 30px;
 }
 
 .button:focus {
+    color: #FFFFFF;
 }
 
 .button:active {
+    color: #FFFFFF;
 }
 
 .button:disabled {
+    color: black;
 }
 
 .text {
+    color: grey;
 }
 
 .greeting {
+    font-size: 20px;
 }
