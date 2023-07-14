@@ -5,12 +5,15 @@
 }
 
 .secondary {
+    background-color: #0066cc;
 }
 
 .default {
+    background-color: #cccccc;
 }
 
 .red {
+    background-color: #cc0000;
 }
 
 .default:hover {
