@@ -1,4 +1,5 @@
 .input:focus {
+    border: 1px solid black;
 }
 
 .input {
@@ -11,6 +12,7 @@
 }
 
 .errorInput {
+    border: 1px solid red;
 }
 
 .errorInput:focus {
