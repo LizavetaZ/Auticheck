@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Auticheck/static/css/main.faae99b5.css",
-    "main.js": "/Auticheck/static/js/main.54d83720.js",
+    "main.css": "/Auticheck/static/css/main.c1220352.css",
+    "main.js": "/Auticheck/static/js/main.a65f6d21.js",
     "static/js/787.66cb4309.chunk.js": "/Auticheck/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Auticheck/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Auticheck/index.html",
-    "main.faae99b5.css.map": "/Auticheck/static/css/main.faae99b5.css.map",
-    "main.54d83720.js.map": "/Auticheck/static/js/main.54d83720.js.map",
+    "main.c1220352.css.map": "/Auticheck/static/css/main.c1220352.css.map",
+    "main.a65f6d21.js.map": "/Auticheck/static/js/main.a65f6d21.js.map",
     "787.66cb4309.chunk.js.map": "/Auticheck/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.faae99b5.css",
-    "static/js/main.54d83720.js"
+    "static/css/main.c1220352.css",
+    "static/js/main.a65f6d21.js"
   ]
 }
