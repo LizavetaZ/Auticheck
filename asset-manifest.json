@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Auticheck/static/css/main.ded7d40a.css",
-    "main.js": "/Auticheck/static/js/main.36436207.js",
+    "main.css": "/Auticheck/static/css/main.18052d8b.css",
+    "main.js": "/Auticheck/static/js/main.8bbde0dc.js",
     "static/js/787.66cb4309.chunk.js": "/Auticheck/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Auticheck/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/Auticheck/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Auticheck/index.html",
-    "main.ded7d40a.css.map": "/Auticheck/static/css/main.ded7d40a.css.map",
-    "main.36436207.js.map": "/Auticheck/static/js/main.36436207.js.map",
+    "main.18052d8b.css.map": "/Auticheck/static/css/main.18052d8b.css.map",
+    "main.8bbde0dc.js.map": "/Auticheck/static/js/main.8bbde0dc.js.map",
     "787.66cb4309.chunk.js.map": "/Auticheck/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ded7d40a.css",
-    "static/js/main.36436207.js"
+    "static/css/main.18052d8b.css",
+    "static/js/main.8bbde0dc.js"
   ]
 }
