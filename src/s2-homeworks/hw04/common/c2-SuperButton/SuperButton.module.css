@@ -1,15 +1,40 @@
 .button {
+    color: white;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
 }
 
 .disabled {
+    color: white;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
 }
 
 .secondary {
-    background-color: #0066cc;
+    /*background-color: #0066cc;*/
+
+    color: #007bff;
+    background-color: white;
+    border: 1px solid #007bff;
 }
 
 .default {
-    background-color: #cccccc;
+    /*background-color: #cccccc;*/
+    color: white;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
 }
 
 .red {
