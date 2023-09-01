@@ -1,9 +1,12 @@
 .select {
+    font-size: 20px;
 }
 
 .select:focus {
+
 }
 
 
 .option:hover {
+    background-color: #007bff;
 }
