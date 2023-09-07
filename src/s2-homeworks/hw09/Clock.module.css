@@ -1,7 +1,15 @@
 .buttonsContainer {
+    margin-top: 10px;
+    display: flex;
+    gap: 30px;
+}
+
+button:disabled  {
+    opacity: 0.5;
 }
 
 .clock {
+    font-size: 20px;
 }
 
 .watch {
@@ -11,4 +19,7 @@
 }
 
 .more {
+    opacity: 0.5;
+    font-size: 20px;
 }
+
