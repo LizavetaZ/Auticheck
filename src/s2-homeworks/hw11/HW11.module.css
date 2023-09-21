@@ -1,8 +1,15 @@
 .container {
+    width: 250px;
 }
 
 .wrapper {
+    display: grid;
+    grid-template-columns: 30px 180px 20px;
+    column-gap: 10px;
 }
 
 .number {
+    font-weight: bold;
+    margin: 5px;
+    margin-top: 0;
 }
