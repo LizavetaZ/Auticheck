@@ -1,22 +1,37 @@
 .buttonsContainer {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+
 }
 
 .responseContainer {
+    display: flex;
 }
 
 .imageContainer {
 }
 
 .image {
+    margin-top: 10px;
 }
 
 .textContainer{
+    margin-top: 80px;
+    margin-left: 30px;
 }
 
 .code {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .text {
+    margin-top: 10px;
+    font-size: 22px;
 }
 .info {
+    font-size: 50px;
+    font-style: italic;
+    margin: auto;
 }
