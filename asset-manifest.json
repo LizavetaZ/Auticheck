@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Auticheck/static/css/main.3606787e.css",
-    "main.js": "/Auticheck/static/js/main.87e46ab7.js",
+    "main.css": "/Auticheck/static/css/main.d31b088b.css",
+    "main.js": "/Auticheck/static/js/main.f2b8e955.js",
     "static/js/787.66cb4309.chunk.js": "/Auticheck/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Auticheck/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/Auticheck/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,12 @@
     "static/media/checked.svg": "/Auticheck/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Auticheck/index.html",
     "static/media/burger.svg": "/Auticheck/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.3606787e.css.map": "/Auticheck/static/css/main.3606787e.css.map",
-    "main.87e46ab7.js.map": "/Auticheck/static/js/main.87e46ab7.js.map",
+    "main.d31b088b.css.map": "/Auticheck/static/css/main.d31b088b.css.map",
+    "main.f2b8e955.js.map": "/Auticheck/static/js/main.f2b8e955.js.map",
     "787.66cb4309.chunk.js.map": "/Auticheck/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3606787e.css",
-    "static/js/main.87e46ab7.js"
+    "static/css/main.d31b088b.css",
+    "static/js/main.f2b8e955.js"
   ]
 }
