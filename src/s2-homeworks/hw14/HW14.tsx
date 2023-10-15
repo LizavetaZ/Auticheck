@@ -35,9 +35,11 @@ const HW14 = () => {
         getTechs(value)
             .then((res) => {
                 // делает студент
-
-                // сохранить пришедшие данные
-
+                if (res && res.data && res.data.techs) {
+                    setTechs(res.data.techs);
+                    // сохранить пришедшие данные
+                }
+                setLoading(false)
                 //
             })
     }
@@ -48,7 +50,8 @@ const HW14 = () => {
 
         // добавить/заменить значение в квери урла
         // setSearchParams(
-
+        searchParams.set('query', value);
+        setSearchParams(searchParams)
         //
     }
 
