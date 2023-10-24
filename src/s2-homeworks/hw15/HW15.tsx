@@ -65,17 +65,22 @@ const HW15 = () => {
         setPage(newPage);
         setCount(newCount);
         const params = { sort, page: newPage.toString(), count: newCount.toString() };
-        setSearchParams(params);
+        const queryString = JSON.stringify(params); // Преобразование объекта params в строку
+        searchParams.set('query', queryString);
+        setSearchParams(searchParams);
         sendQuery(params);
     }
 
     const onChangeSort = (newSort: string) => {
         // делает студент
         setSort(newSort);
-        setPage(1);
+        setPage(page);
         const params = { sort: newSort, page: page.toString(), count: count.toString() };
-        setSearchParams(params);
-        sendQuery(searchParams.toString());
+        const queryString = JSON.stringify(params); // Преобразование объекта params в строку
+        searchParams.set('query', queryString);
+        setSearchParams(searchParams);
+        sendQuery(params);
+
     }
 
     useEffect(() => {
