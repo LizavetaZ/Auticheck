@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Auticheck/static/css/main.50f6062e.css",
+    "main.css": "/Auticheck/static/css/main.173dc9f1.css",
     "main.js": "/Auticheck/static/js/main.fc9476dd.js",
     "static/js/787.66cb4309.chunk.js": "/Auticheck/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Auticheck/static/media/avatar.d947cb9d0d13765666b6.png",
@@ -14,12 +14,12 @@
     "static/media/checked.svg": "/Auticheck/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/Auticheck/index.html",
     "static/media/burger.svg": "/Auticheck/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.50f6062e.css.map": "/Auticheck/static/css/main.50f6062e.css.map",
+    "main.173dc9f1.css.map": "/Auticheck/static/css/main.173dc9f1.css.map",
     "main.fc9476dd.js.map": "/Auticheck/static/js/main.fc9476dd.js.map",
     "787.66cb4309.chunk.js.map": "/Auticheck/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50f6062e.css",
+    "static/css/main.173dc9f1.css",
     "static/js/main.fc9476dd.js"
   ]
 }
